@@ -1,0 +1,12 @@
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\bin\Debug\Project1_MediaPlayer.Vinyl.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\bin\Debug\Project1_MediaPlayer.Vinyl.pdb
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.g.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.Vinyl\obj\Debug\Project1_MediaPlayer.Vinyl.pdb

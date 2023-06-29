@@ -1,0 +1,13 @@
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\bin\Debug\Project1_MediaPlayer.CustomProgressBar.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\bin\Debug\Project1_MediaPlayer.CustomProgressBar.pdb
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.g.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.pdb
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.CustomProgressBar\obj\Debug\Project1_MediaPlayer.CustomProgressBar.csproj.AssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.,LoadingSpinnerControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.,LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.,LoadingSpinnerControl_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.,LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.,LoadingSpinnerControl_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.,LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.csproj.AssemblyReference.cache

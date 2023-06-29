@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_MediaPlayer", "Project1_MediaPlayer\Project1_MediaPlayer.csproj", "{9863895B-2705-458F-BCB9-DC42CAA980CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_MediaPlayer.CustomProgressBar", "Project1_MediaPlayer.CustomProgressBar\Project1_MediaPlayer.CustomProgressBar.csproj", "{BC67418C-2196-4063-9011-146CF4007EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_MediaPlayer.Vinyl", "Project1_MediaPlayer.Vinyl\Project1_MediaPlayer.Vinyl.csproj", "{2FF8E0AA-828F-4FAE-93DB-2B93324078E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1_MediaPlayer.LoadingSpinnerControl", "Project1_MediaPlayer.LoadingSpinnerControl\Project1_MediaPlayer.LoadingSpinnerControl.csproj", "{3DACC332-DA86-433E-B386-B6A5B2760FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9863895B-2705-458F-BCB9-DC42CAA980CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863895B-2705-458F-BCB9-DC42CAA980CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863895B-2705-458F-BCB9-DC42CAA980CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863895B-2705-458F-BCB9-DC42CAA980CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC67418C-2196-4063-9011-146CF4007EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC67418C-2196-4063-9011-146CF4007EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC67418C-2196-4063-9011-146CF4007EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC67418C-2196-4063-9011-146CF4007EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF8E0AA-828F-4FAE-93DB-2B93324078E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF8E0AA-828F-4FAE-93DB-2B93324078E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF8E0AA-828F-4FAE-93DB-2B93324078E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF8E0AA-828F-4FAE-93DB-2B93324078E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DACC332-DA86-433E-B386-B6A5B2760FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DACC332-DA86-433E-B386-B6A5B2760FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DACC332-DA86-433E-B386-B6A5B2760FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DACC332-DA86-433E-B386-B6A5B2760FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1875A3E2-BE3A-4773-8765-337DDDA1BEB7}
+	EndGlobalSection
+EndGlobal

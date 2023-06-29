@@ -1,0 +1,13 @@
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\bin\Debug\Project1_MediaPlayer.LoadingSpinnerControl.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\bin\Debug\Project1_MediaPlayer.LoadingSpinnerControl.pdb
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.csproj.AssemblyReference.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl_MarkupCompile.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl_MarkupCompile.lref
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Themes\Generic.baml
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.g.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.Properties.Resources.resources
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.csproj.GenerateResource.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.csproj.CoreCompileInputs.cache
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.dll
+C:\Users\jqchuah\source\repos\Project1_MediaPlayer\Project1_MediaPlayer.LoadingSpinnerControl\obj\Debug\Project1_MediaPlayer.LoadingSpinnerControl.pdb
