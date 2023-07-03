@@ -663,7 +663,7 @@ namespace Project1_MediaPlayer
 
             try
             {
-                filePath = "pack://application:,,,/MediaPlayer;component/Assets/" + imageName.ToString();
+                filePath = "pack://application:,,,/Project1_MediaPlayer;component/Assets/" + imageName.ToString();
             }
             catch (Exception ex)
             {

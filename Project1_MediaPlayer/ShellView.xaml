@@ -178,6 +178,138 @@
                     </MenuItem>
                 </Menu>
             </StackPanel>
+            
+            <!-- Media Element -->
+            <Grid Grid.Row="2" Background="{StaticResource DarkBackgroundBrush}">
+                <ContentControl Content="{Binding MediaPlayerElement}"/> 
+                <!--Media Background-->
+                <Image Width="70" Height="70" Source="{StaticResource Favicon}" Visibility="{Binding BackgroundVisibility}" />
+
+                <!--- Vinyl -->
+                <spinningvinyl:Vinyl 
+                    VinylStroke="#3545"
+                    VinylFill="#eee"
+                    Visibility="{Binding VinylVisibility}"/>
+
+                <!-- Loading Spinner [For async request] -->
+            </Grid>
+       
+            <!-- Progress Bar-->
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="70"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="70"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                
+                <!-- Current Progress -->
+                <TextBlock Grid.Column="0" Text="{Binding TimeElasped}" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                <!--- Progressbar -->
+                <progress:CustomProgressBar 
+                    BarWidth="{Binding BarLength}"
+                    ProgressWidth="{Binding ProgressBarLength}"
+                    HorizontalAlignment="Center" 
+                    Grid.Column="1"/>
+
+                <Ellipse Width="20" 
+                         Grid.Column="1"
+                         HorizontalAlignment="Left"
+                         Height="20" 
+                         Cursor="Hand"
+                         Visibility="{Binding SliderVisibility}"
+                         Stroke="AliceBlue"
+                         StrokeThickness="2"
+                         Margin="{Binding SliderPosition}"
+                         Fill="#67AABB">
+                </Ellipse>
+
+                <TextBlock Grid.Column="2" Text="{Binding TotalMediaTime}" Foreground="White" 
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+            </Grid>
+
+            <!-- Playback and Audio Controls -->
+            <Grid Grid.Row="4" Margin="30,3,30,3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="240"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <!--- Info control -->
+                <StackPanel Grid.Column="0" Orientation="Horizontal">
+                    <Button Style="{StaticResource PlayBackSectionButtons}"
+                            Command="{Binding HelperWindowShell}">
+                        <Image Source="{StaticResource HelpIcon}" />
+                    </Button>
+                </StackPanel>
+
+                <!-- Playback control -->
+                <StackPanel Grid.Column="1" 
+                            HorizontalAlignment="Center" 
+                            Orientation="Horizontal">
+                    <Button Style="{StaticResource PlayBackSectionButtons}"
+                            Command="{Binding RewindCommand}">
+                        <Image Source="{StaticResource BackwardIcon}" />
+                    </Button>
+                    <Button 
+                        Command="{Binding PlayCommand}"
+                        Style="{StaticResource PlayButtonControl}">
+                        <Image Source="{Binding CurrentPlaybackIcon}" />
+                    </Button>
+                    <Button Style="{StaticResource PlayBackSectionButtons}"
+                            Command="{Binding ForwardCommand}">
+                        <Image Source="{StaticResource ForwardIcon}" />
+                    </Button>
+                    <Button
+                        Command="{Binding StopCommand}"
+                        Style="{StaticResource PlayBackSectionButtons}">
+                        <Image Source="{StaticResource StopIcon}" />
+                    </Button>
+                </StackPanel>
+
+                <!--- Audio control -->
+                <StackPanel Grid.Column="2"
+                            Orientation="Horizontal" 
+                            VerticalAlignment="Center" 
+                            HorizontalAlignment="Right" >
+                    <Button Style="{StaticResource PlayBackSectionButtons}"
+                            Command="{Binding DecreaseVolume}">
+                        <Image Source="{StaticResource DecreaseIcon}" 
+                               Width="30" Height="30"/>
+                    </Button>
+                    <ItemsControl ItemsSource="{Binding VolumeControlHeights}">
+                        <ItemsControl.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                </StackPanel>
+                            </ItemsPanelTemplate>
+                        </ItemsControl.ItemsPanel>
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate DataType="{x:Type local:VolumeControl}">
+                                <StackPanel Margin="0,0,0,30" Orientation="Horizontal">
+                                    <Rectangle 
+                                        VerticalAlignment="Bottom"
+                                        Margin="5,0,5,0"
+                                        Width="10"
+                                        Fill="{Binding VolumeBarFill}"
+                                        Height="{Binding VolumeBarHeight}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                    <Button Style="{StaticResource PlayBackSectionButtons}"
+                            Command="{Binding IncreaseVolume}">
+                        <Image Source="{StaticResource IncreaseIcon}" 
+                               Width="30" Height="30"/>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+
         </Grid>
     </Border>
+
+
 </Window>
